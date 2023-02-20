@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone Shahzad Ansari</h1>
 <h3 align="center">Video Game Developer and Freelancer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzadgamedev" alt="shahzadgamedev" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/shahz_gamedev" target="blank"><img src="https://img.shields.io/twitter/follow/shahz_gamedev?logo=twitter&style=for-the-badge" alt="shahz_gamedev" /></a> </p>
 
