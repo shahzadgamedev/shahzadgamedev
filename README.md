@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahz_gamedev" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/twitter.png" alt="shahz_gamedev" height="50" width="50" /></a>
-<a href="https://instagram.com/officialshahzadansarimdp/" target="blank"><img align="center" src=https://img.icons8.com/fluency/144/null/instagram-new.png" alt="officialshahzadansarimdp/" height="50" width="50" /></a>
+<a href="https://instagram.com/officialshahzadansarimdp/" target="blank"><img align="center" src="https://img.icons8.com/fluency/144/null/instagram-new.png" alt="officialshahzadansarimdp/" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
