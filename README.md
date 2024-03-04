@@ -14,7 +14,6 @@
 
 - 👯 I’m looking to collaborate on **Game Dev Projects**
 
-- Check out My Profile in Fiverr [https://www.fiverr.com/gametrackstudio](https://www.fiverr.com/gametrackstudio)
 
 - 💬 Ask me about **Unity , C#**
 
