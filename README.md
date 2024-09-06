@@ -8,7 +8,7 @@
 </h2>
  Fatal Adventure (https://play.google.com/store/apps/details?id=com.P3TGaming.FatalAdventure&hl=en_IN&gl=US)
 
-<p align="left"> <a href="https://twitter.com/shahz_gamedev" target="blank"><img src="https://img.shields.io/twitter/follow/shahz_gamedev?logo=twitter&style=for-the-badge" alt="shahz_gamedev" /></a> </p>
+
 
 - 🌱 I’m currently learning **Unreal Engine**
 
