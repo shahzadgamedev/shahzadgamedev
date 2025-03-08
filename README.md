@@ -1,21 +1,25 @@
-<h1 align="center">Qunatum Entangled </h1>
-<h3 align="center"> Game Developer & AI Enthusiast   </h3>
+# Shahzad Ansari
 
+![Profile Image](https://avatars.githubusercontent.com/u/95477157?v=4) <!-- Replace with your profile image URL -->
 
-<h2> 
-<img style="padding-top : 20px;" width="38" height="38" src="https://img.icons8.com/fluency/48/google-play-store-new.png" alt="google-play-store-new"/>
-  Check Out My Games On Play Store 
-</h2>
- Fatal Adventure (https://play.google.com/store/apps/details?id=com.P3TGaming.FatalAdventure&hl=en_IN&gl=US)
+Hello, I am Shahzad . I am very much interested in AI and robotics and currently learning Python and Rust.
 
+## On Going Learning 
 
+### Artificial Intelligence
+- **Transformers**: Learning about transformers and their applications in AI.
+- **Multi-Headed Attention**: Exploring the concept of multi-headed attention in neural networks.
+- **Vision Transformers**: Understanding and implementing new vision transformers.
 
-- 🌱 I’m currently learning **Unreal Engine**
+### Robotics
+- **Foundational Models**: Started working on foundational models in robotics, focusing on integrating AI with robotics.
 
-- 👯 I’m looking to collaborate on **Game Dev Projects**
+### Programming Languages
+- **Python**: Currently learning Python for AI and data science applications.
+- **Rust**: Learning Rust for system-level programming and performance-critical applications.
 
+## Background
 
-- 💬 Ask me about **Unity , C#**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/250/null/unity.png" alt="unity" width="50" height="50"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/256/unreal-engine.png" alt="unreal" width="50" height="50"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-Android-notification-and-mailing-smashingstocks-flat-smashing-stocks.png" alt="android" width="50" height="50"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/null/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/null/c-sharp-logo-2.png" alt="csharp" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="git" width="50" height="50"/> </a>  </p>
+Previously, I was a game developer and now I am switching to AI. Here are some of the skills and experiences I have gained as a game developer:
+- **Game Development**: Created several video games using various game engines.
+- **Freelancing**: Worked as a freelancer, delivering high-quality game projects to clients.
