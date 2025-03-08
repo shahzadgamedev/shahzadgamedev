@@ -18,6 +18,10 @@ Hello, I am Shahzad . I am very much interested in AI and robotics and currently
 - **Python**: Currently learning Python for AI and data science applications.
 - **Rust**: Learning Rust for system-level programming and performance-critical applications.
 
+  
+### Research
+- **Combining Gaming and AI**: Conducting research on integrating gaming techniques with AI to create innovative solutions.
+
 ## Background
 
 Previously, I was a game developer and now I am switching to AI. Here are some of the skills and experiences I have gained as a game developer:
